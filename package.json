@@ -1,0 +1,22 @@
+{
+  "name": "pizza-test",
+  "version": "1.0.0",
+  "description": "Pizza-Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kapoon974/Pizza-Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kapoon974/Pizza-Test/issues"
+  },
+  "homepage": "https://github.com/Kapoon974/Pizza-Test#readme",
+  "devDependencies": {
+    "cypress": "^6.0.0"
+  }
+}
